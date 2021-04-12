@@ -1,0 +1,10 @@
+body {
+    display: flex;
+    justify-content: center;
+
+}
+
+.character {
+    font-size: 1.2em;
+    font-weight: 800;
+}
